@@ -1,0 +1,6 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(æ¶ç˜8ğÄµˆÂ1
+j
+java:S2095"HUse try-with-resources or close this "HttpClient" in a "finally" clause.(¦‚ÛÎşÿÿÿÿ8öÄµˆÂ1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8úÄµˆÂ1

@@ -1,0 +1,8 @@
+
+T
+java:S1854"7Remove this useless assignment to local variable "cep".(ìãÔ©8á–Î‰Â1
+G	java:S106"+Replace this use of System.out by a logger.(µÑ»Ğ8åºˆÂ1
+E
+java:S1481"(Remove this unused "cep" local variable.(ìãÔ©8ê–Î‰Â1
+L	java:S106"+Replace this use of System.out by a logger.(Å–Ü…ùÿÿÿÿ8ò¹ˆÂ1
+L	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8åºˆÂ1
